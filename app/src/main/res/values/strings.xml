@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Notificacao Push</string>
-    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_id">canal_da_mancha</string>
     <string name="title_activity_main2">MainActivity</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -10,4 +10,6 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="get_token">Get Token</string>
+    <string name="canal_minhas_mensagens">Canal Minhas Mensagens</string>
 </resources>
